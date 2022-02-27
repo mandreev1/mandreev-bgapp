@@ -2,5 +2,5 @@
    $database = "bulgaria";
    $user = "web_user";
    $password  = "Password1";
-   $host = "c-db";
+   $host = "db";
 ?>
