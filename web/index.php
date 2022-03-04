@@ -1,11 +1,11 @@
 <html>
   <head>
     <meta charset="UTF-8"/>
-    <title>Факти за България</title>
+    <title>ФактиТЕ за България</title>
   </head>
   <body>
     <div align="center">
-      <h1>Факти за България</h1>
+      <h1>ФактиТЕ за България</h1>
       <img src="bulgaria-map.png" />
       <table>
         <tr>
